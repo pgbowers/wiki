@@ -1,0 +1,27 @@
+.page {
+    background-color: #bcd5fc;
+}
+
+.center-block {
+    height: 40%;
+}
+
+.block {
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.randomSearch {
+    padding-bottom: 20px;
+}
+
+#heading {
+    font-weight: bold;
+}
+
+.images {
+    /* this will center an image within the block*/
+    margin: 0 auto;
+}
